@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HanishaSakalabhaktula/movie_search_app.git/static/css/main.b4536ff9.css",
+    "main.js": "/HanishaSakalabhaktula/movie_search_app.git/static/js/main.c74c85de.js",
+    "index.html": "/HanishaSakalabhaktula/movie_search_app.git/index.html",
+    "main.b4536ff9.css.map": "/HanishaSakalabhaktula/movie_search_app.git/static/css/main.b4536ff9.css.map",
+    "main.c74c85de.js.map": "/HanishaSakalabhaktula/movie_search_app.git/static/js/main.c74c85de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4536ff9.css",
+    "static/js/main.c74c85de.js"
+  ]
+}
